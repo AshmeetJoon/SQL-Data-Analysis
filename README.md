@@ -1,4 +1,4 @@
--- analysis data using mysql database --
+-- data analysis using mysql database --
 -- upload car_dekho file which contain car details (like year,fuel type(PETROL , CSN and DIESEL) and owner (name details)) --
 -- perfrom mysql query according to question  --
 -- for example --
