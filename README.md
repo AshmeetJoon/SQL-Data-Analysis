@@ -1,1 +1,12 @@
-
+-- analysis data using mysql database --
+-- upload car_dekho file which contain car details (like year,fuel type(PETROL , CSN and DIESEL) and owner (name details)) --
+-- perfrom mysql query according to question  --
+-- for example --
+-- Read car data --
+-- Total Cars : To get a count of total records --
+-- The manager asked the employees how many cars is avalible in 2023 --
+-- The manager asked the employees how many cars is avalible in 2020,2021,2022 --
+-- Client asked me to print the total of all cars by years , I don't see allthe details --
+-- Client asked to car dealer agent how many diesel cars will there be in 2020?  --
+-- Client requested a car dealer agent how many petrol cars will there be in 2020?  --
+-- The manager told the employee to give a print of all fuel cars (petrol, diesel and CNG) come from all year --
