@@ -1,7 +1,8 @@
 # SQL-Data-Analysis
+-- first we create schema or database --
 create schema cars;     
 use cars;   
--- upload cardekho zip file then perform query to analysis data --
+-- upload carcdekho.csv file then perform sql query to analysis data --
 select * from cars.car_dekho;
 -- Read car data --
 select * from car_dekho;
